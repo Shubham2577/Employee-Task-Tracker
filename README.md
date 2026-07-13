@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📌 Employee Task Tracker System
 
 A Spring Boot backend project for managing employees and tasks with secure JWT authentication, role-based access, and REST APIs.
@@ -140,3 +141,6 @@ GitHub: https://github.com/vkfullstack
 - Advanced role permissions
 - Dashboard analytics
 - Cloud deployment (AWS / Render)
+=======
+# Employee-Task-Tracker
+>>>>>>> 74194914eff63019737a3020114ad27153c4b7e5
